@@ -26,7 +26,7 @@ w.show()
 #g = gl.GLGridItem()
 #w.addItem(g)
 
-#generate random points from -10 to 10, z-axis positive
+
 pos = a[n:n2]
 sp2=gl.GLScatterPlotItem(pos=pos , size=2)
 w.addItem(sp2)
